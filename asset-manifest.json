@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Grade-Generator/static/css/main.4e5b964a.css",
+    "main.js": "/Grade-Generator/static/js/main.a6a83108.js",
+    "index.html": "/Grade-Generator/index.html",
+    "main.4e5b964a.css.map": "/Grade-Generator/static/css/main.4e5b964a.css.map",
+    "main.a6a83108.js.map": "/Grade-Generator/static/js/main.a6a83108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e5b964a.css",
+    "static/js/main.a6a83108.js"
+  ]
+}
